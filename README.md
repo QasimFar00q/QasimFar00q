@@ -30,4 +30,4 @@ In my 3rd year of University, for my disseration, I chose to develop a program t
 - GoDOT
 #
 Socials:
-- [Linked in](https://www.linkedin.com/in/muhammed-qasim-farooq-679343325/)
+- [LinkedIn](https://www.linkedin.com/in/muhammed-qasim-farooq-679343325/)
