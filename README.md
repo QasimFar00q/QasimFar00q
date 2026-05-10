@@ -1,21 +1,21 @@
 # About me
 
-3rd Year computer science student at Aston University. 
-Enjoy software development and problem solving.
-Currently building personal and university projects to strengthen skills.
+Hello, I'm Qasim. A 3rd Year computer science student at Aston University. 
+I enjoy software development and problem solving.
+Currently building personal and university projects to strengthen skills to gain more hands on experience.
 
 # Experience
 
 ## Have used the following Frameworks in the past
 - DJango
 
-## Have used the following languages in the past:
+## Tech Stack
 - Python
 - Java
-- JS
-- CSS
+- Javascript
+- HTML / CSS
 - Visual basic
-
+- SQL
 
 # Projects
 ## [E-Commerce website group project](https://github.com/Pqpercut/Group18)
