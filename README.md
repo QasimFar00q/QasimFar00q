@@ -27,4 +27,4 @@ In my 3rd year of University, for my disseration, I chose to develop a program t
 
 # Currently learning
 - React JS
-= GoDOT
+- GoDOT
